@@ -1,3 +1,0 @@
-WinWaitActive("File Upload")
-Send("path of the file")
-ControlClick("","&Open","Button1")
