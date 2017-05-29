@@ -1,0 +1,5 @@
+<root>
+    <item name='org.openqa.selenium.WebDriver.Options org.openqa.selenium.Cookie getCookieNamed(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.Nullable'/>
+    </item>
+</root>
